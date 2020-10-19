@@ -1,0 +1,6 @@
+export const LOAD_LIST_SUCCESS = "LOAD_LIST_SUCCESS";
+export const LOAD_LANGUAGE_SUCCESS = "LOAD_LANGUAGE_SUCCESS";
+export const EDIT_ROW = "EDIT_ROW";
+export const UPDATE_ROW = "UPDATE_ROW";
+export const ADD_ROW = "ADD_ROW";
+export const TOOGLE_LOADER = "TOOGLE_LOADER";
