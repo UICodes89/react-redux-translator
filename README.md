@@ -1,4 +1,4 @@
-# Vsware FrontEnd Interview
+# React+Redux+JSON_API
 
 ## Dependancies
 
